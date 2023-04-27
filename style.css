@@ -1,5 +1,5 @@
 .cabecalho {
-    background-color:rgb(255, 0, 8);
+    background-color: #424E61;
     color: white;
     display: flex;
     justify-content: space-around;
@@ -19,4 +19,23 @@
 .corpo {
     padding: 0px;
     margin: 0px;
+}
+
+.PIMENTA-BIQUINHO-imagem{
+    width: 25%;
+}
+
+.PIMENTA-BIQUINHO{
+    background-image: linear-gradient(#424E61,#4EBFE9);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.PIMENTA-BIQUINHO-div-conteudo{
+    width: 35%;
+}
+.PIMENTA-BIQUINHO-titulo{
+    padding: 24px 0;
 }

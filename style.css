@@ -1,6 +1,5 @@
 .cabecalho {
     background-image: linear-gradient(#a1345e #f70505);
-    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -28,7 +27,6 @@
 
 .PIMENTA-BIQUINHO{
     background-image: linear-gradient(#a1345e,#f70505);
-    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;

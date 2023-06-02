@@ -1,3 +1,6 @@
+.corpo {
+    background-image: linear-gradient(#a1345e,#f70505);
+}
 .cabecalho {
     background-image: linear-gradient(#a1345e #f70505);
     color: white;
@@ -27,7 +30,7 @@
    }
 
 .PIMENTA-BIQUINHO{
-    background-image: linear-gradient(#a1345e,#f70505);
+    
     color: white;
     display: flex;
     justify-content: space-around;

@@ -16,12 +16,6 @@
     margin: 0 16px;
 }
 
-.corpo {
-    padding: 0px;
-    margin: 0px;
-    background-image: linear-gradient(#a1345e,#f70505);
-}
-
 .PIMENTA-BIQUINHO-imagem {
     width: 25%;
     display: grid;

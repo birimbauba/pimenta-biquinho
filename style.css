@@ -19,7 +19,7 @@
 .corpo {
     padding: 0px;
     margin: 0px;
-    background-image: linear-gradient(#424E61,#4EBFE9);
+    background-image: linear-gradient(#a1345e,#f70505);
 }
 
 .PIMENTA-BIQUINHO-imagem {
@@ -33,7 +33,7 @@
    }
 
 .PIMENTA-BIQUINHO{
-    background-image: linear-gradient(#424E61,#4EBFE9);
+    background-image: linear-gradient(#a1345e,#f70505);
     color: white;
     display: flex;
     justify-content: center;

@@ -1,5 +1,5 @@
 .cabecalho {
-    background-image: linear-gradient(#a1345e #f70505);
+    background-color: linear-gradient(#a1345e #f70505);
     color: rgb(14, 1, 1);
     display: flex;
     justify-content: space-around;
@@ -42,4 +42,7 @@
 }
 .PIMENTA-BIQUINHO-titulo{
     padding: 24px 0;
+}
+.cabecalho{
+    background-color: linear-gradient(#a1345e #f70505);
 }

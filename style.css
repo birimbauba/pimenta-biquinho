@@ -1,4 +1,4 @@
-.cabecalho{
+ .cabecalho{
     background-color: blue;
     color: rgb(14, 1, 1);
     display: flex;
@@ -55,4 +55,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     margin-bottom: 10px;
     justify-content: right;
+}
+.Pimenta-imagem{
+    width: 20px;
 }

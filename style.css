@@ -47,11 +47,11 @@
     display: ;
 }
 .pimrnta2.png{
-    width: 23%;
+    width: 30%;
     display: grid;
     align-items: center;
-    column-gap: 5px;
-    margin-left: 10px;
+    column-gap: 10px;
+    margin-left: 20px;
     grid-template-columns: 1fr 1fr 1fr;
     margin-bottom: 10px;
     justify-content: right;

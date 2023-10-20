@@ -1,61 +1,42 @@
- .cabecalho{
-    background-color: blue;
-    color: rgb(14, 1, 1);
+{
+    margin: 0%;
+    padding: 0%;
+    }
+    
+    .cabeçalho{
+    background-color: rgba(129, 9, 241, 0.671);
+    color: black;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 34px;
-}
-
-.cabecalho-imagem {
-    width: 20%;
-    justify-content: left
-}
-
-.cabecalho-lista-item {
-    display: inline-block;
-    margin: 0 16px;
-}
-
-.PIMENTA-BIQUINHO-imagem {
-    width: 25%;    
-    display: grid;
-    align-items: center; 
-    grid-template-columns: 1fr 1fr 1fr;
-    column-gap: 5px;
-    margin-left: 10px;
-    margin-bottom: 10px;
-    justify-content: right;
-}
-
-.PIMENTA-BIQUINHO{
-    color: rgb(0, 0, 0);
+    padding: 24px 0;
+    }
+    
+    .cabeçalho_imagem{
+    width: 12%;
+    }
+    
+    .cabeçalho_titulo{
+    font-size: 50px;
+    }
+    
+    .cabeçalho_lista_item{
+    margin: 25px 0px 25px 0px;
+    font-size: 16px;
+    }
+    
+    .apresentaçao_trabalho{
+    background-image: linear-gradient(rgba(160, 8, 206, 0.514), #570aafb9);
     display: flex;
     justify-content: space-around;
     align-items: center;
-}
-
-.PIMENTA-BIQUINHO-div-conteudo{
-    width: 35%;
-    margin-left: 10px;
-}
-.PIMENTA-BIQUINHO-titulo{
-    padding: 25px 0;
-}
-.foto{
-    width: 23%;
-    display: 10%;
-}
-.pimrnta2.png{
-    width: 30%;
-    display: grid;
-    align-items: center;
-    column-gap: 10px;
-    margin-left: 20px;
-    grid-template-columns: 1fr 1fr 1fr;
-    margin-bottom: 10px;
-    justify-content: right;
-}
-.Pimenta-imagem{
-    width: 20px;
-}
+    padding: 24px 0;
+    }
+    
+    .titulo_apresentaçao_trabalho{
+    font-size: 30px;
+    }
+    
+    .imagem_arvore{
+    width: 15%;
+    }
